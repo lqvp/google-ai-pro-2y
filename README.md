@@ -23,6 +23,19 @@ Google One のプロセスに Frida で計費モジュールを差し込み、of
 
 Play のサブスク画面で `有効 / Google AI Pro (5 TB) / 次回のお支払い: ￥2,900（2028/11/19）` を確認済み。
 
+## 実績スクリーンショット（本人ポスト）
+
+同じ手順で 24 ヶ月まで積めたときの記録（投稿者本人のポスト。アカウント名・メールは伏せています）:
+
+- <https://x.com/lvz3s/status/2123112734460170354>
+- <https://x.com/lvz3s/status/2123109098443121001>
+
+![Play の定期購入画面（次回のお支払い）](docs/images/result-subscription.jpg)
+
+![結果サマリ](docs/images/result-summary.jpg)
+
+![作業ログ](docs/images/result-session-log.jpg)
+
 ## 2 つの実行経路
 
 | | 経路 A（legacy / frida 16） | 経路 B（このリポジトリの追加分 / frida 17） |

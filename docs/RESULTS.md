@@ -69,3 +69,12 @@ Google AI Pro (5 TB)
   （電源長押しで復帰、サブスクは無事）
 - USB 接続が数回ドロップ（ハブ経由）。Wi-Fi ADB 併用で安定
 - 4 回目（`-ss-2026`）だけ Play がシートを出さず「エラーが発生しました」ダイアログを表示
+
+## スクリーンショット（本人ポスト）
+
+- <https://x.com/lvz3s/status/2123112734460170354>
+- <https://x.com/lvz3s/status/2123109098443121001>
+
+![Play の定期購入画面](../images/result-subscription.jpg)
+
+![結果サマリ](../images/result-summary.jpg)
