@@ -1,0 +1,10 @@
+{
+  "name": "google-ai-pro-2y-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frida agent that bundles frida-java-bridge for the Android 16 / Frida 17 path",
+  "dependencies": {
+    "frida-java-bridge": "7.1.0"
+  },
+  "type": "commonjs"
+}
